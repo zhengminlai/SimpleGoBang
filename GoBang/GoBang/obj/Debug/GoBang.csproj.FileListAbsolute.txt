@@ -1,0 +1,20 @@
+c:\users\19068\documents\visual studio 2015\Projects\GoBang\GoBang\bin\Debug\GoBang.exe.config
+C:\Users\19068\documents\visual studio 2015\Projects\GoBang\GoBang\bin\Debug\GoBang.exe
+C:\Users\19068\documents\visual studio 2015\Projects\GoBang\GoBang\bin\Debug\GoBang.pdb
+C:\Users\19068\documents\visual studio 2015\Projects\GoBang\GoBang\obj\Debug\GoBang.csprojResolveAssemblyReference.cache
+C:\Users\19068\documents\visual studio 2015\Projects\GoBang\GoBang\obj\Debug\GoBang.Form1.resources
+C:\Users\19068\documents\visual studio 2015\Projects\GoBang\GoBang\obj\Debug\GoBang.Properties.Resources.resources
+C:\Users\19068\documents\visual studio 2015\Projects\GoBang\GoBang\obj\Debug\GoBang.csproj.GenerateResource.Cache
+C:\Users\19068\documents\visual studio 2015\Projects\GoBang\GoBang\obj\Debug\GoBang.exe
+C:\Users\19068\documents\visual studio 2015\Projects\GoBang\GoBang\obj\Debug\GoBang.pdb
+C:\Users\19068\Desktop\大二下课程\智能模拟\No.1_10142510147_赖正敏\Source Code\GoBang\GoBang\bin\Debug\GoBang.exe.config
+C:\Users\19068\Desktop\大二下课程\智能模拟\No.1_10142510147_赖正敏\Source Code\GoBang\GoBang\obj\Debug\GoBang.exe
+C:\Users\19068\Desktop\大二下课程\智能模拟\No.1_10142510147_赖正敏\Source Code\GoBang\GoBang\obj\Debug\GoBang.pdb
+C:\Users\19068\Desktop\大二下课程\智能模拟\No.1_10142510147_赖正敏\Source Code\GoBang\GoBang\bin\Debug\GoBang.exe
+C:\Users\19068\Desktop\大二下课程\智能模拟\No.1_10142510147_赖正敏\Source Code\GoBang\GoBang\bin\Debug\GoBang.pdb
+C:\Users\19068\Desktop\大二下课程\智能模拟\No.1_10142510147_赖正敏\Source Code\GoBang\GoBang\obj\Debug\GoBang.csprojResolveAssemblyReference.cache
+C:\Users\19068\Desktop\大二下课程\智能模拟\No.1_10142510147_赖正敏\Source Code\GoBang\GoBang\obj\Debug\GoBang.Form1.resources
+C:\Users\19068\Desktop\大二下课程\智能模拟\No.1_10142510147_赖正敏\Source Code\GoBang\GoBang\obj\Debug\GoBang.Properties.Resources.resources
+C:\Users\19068\Desktop\大二下课程\智能模拟\No.1_10142510147_赖正敏\Source Code\GoBang\GoBang\obj\Debug\GoBang.csproj.GenerateResource.Cache
+C:\Users\19068\Desktop\大二下课程\智能模拟\No.1_10142510147_赖正敏\Source Code\GoBang\GoBang\bin\Debug\GoBang.exe.CodeAnalysisLog.xml
+C:\Users\19068\Desktop\大二下课程\智能模拟\No.1_10142510147_赖正敏\Source Code\GoBang\GoBang\bin\Debug\GoBang.exe.lastcodeanalysissucceeded
